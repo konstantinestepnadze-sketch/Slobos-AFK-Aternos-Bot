@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "BOT 24/7",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "fronosmp.aternos.me",
     "port": 35057,
-    "version": "",
+    "version": "26.3 ",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a bot",
+        "I am keeping the server 24/7!",
+        "don't touch me keep me in a safe place, like a hole"
       ]
     },
     "chat-log": true,
