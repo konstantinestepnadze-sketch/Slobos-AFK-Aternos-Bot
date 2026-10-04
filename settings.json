@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "fronosmp.aternos.me",
-    "port": 35057,
+    "ip": "koteyamal.aternos.me ",
+    "port": 27058,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a bot",
-        "I am keeping the server 24/7!",
-        "don't touch me keep me in a safe place, like a hole"
+        "",
+        "",
+        ""
       ]
     },
     "chat-log": true,
